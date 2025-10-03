@@ -1,0 +1,15 @@
+{
+  "name": "mc-mineflayer-stress",
+  "version": "1.0.0",
+  "description": "Mineflayer multi-bot stress tester starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.3.1"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
